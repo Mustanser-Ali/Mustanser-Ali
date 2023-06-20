@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustanser Ali</h1>
 <h3 align="center">An aspiring full-stack developer from Belgium</h3>
 
-- 🔭 I’m currently working on [free will](www.free-will.me)
+- 🔭 I’m currently working on [free will](Alexleon2411/free-will)
 
 - 🌱 I’m currently learning **React**
 
