@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustanser Ali</h1>
-<h3 align="center">An aspiring full-stack developer from Belgium</h3>
+<h3 align="center">A juniour full-stack developer from Belgium</h3>
 
 - 🔭 I’m currently working on [free will](Alexleon2411/free-will)
 
